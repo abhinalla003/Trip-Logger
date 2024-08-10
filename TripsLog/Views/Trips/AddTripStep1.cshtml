@@ -1,0 +1,57 @@
+﻿@model TripsLog.Models.AddTripViewModel
+@{
+    ViewData["Title"] = "Add Trip - Page 1";
+    Layout = "_Layout"; 
+}
+<div class="container mt-5">
+    <h1 class="bg-secondary text-white text-center py-3">My Trip Log</h1>
+    <h2 class="my-4">Add Trip Destination and Dates</h2>
+    @if (ViewBag.Errors != null)
+    {
+        foreach (var error in ViewBag.Errors)
+        {
+            <div class="alert alert-danger">@error.ErrorMessage</div>
+        }
+    }
+    @if (ViewBag.Error != null)
+    {
+        <div class="alert alert-danger">@ViewBag.Error</div>
+    }
+    <form asp-action="AddTripStep1" method="post" class="needs-validation" novalidate>
+        <div class="form-group">
+            <label for="Destination">Destination</label>
+            <a href="@Url.Action("ManagePage", "Trips")">Manage destinations</a>
+            <select class="form-control" asp-for="DestinationId" required>
+                @foreach (var destination in ViewBag.Destinations)
+                {
+                    <option value="@destination.DestinationId">@destination.DestinationName</option>
+                }
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="Accommodation">Accommodations</label>
+            <a href="@Url.Action("ManagePage", "Trips")">Manage accommodations</a>
+            <select class="form-control" asp-for="AccommodationId">
+                @foreach (var accommodation in ViewBag.Accommodations)
+                {
+                    <option value="@accommodation.AccommodationId">@accommodation.AccommodationName</option>
+                }
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="StartDate">Start Date</label>
+            <input type="date" class="form-control" asp-for="StartDate" required />
+        </div>
+        <div class="form-group">
+            <label for="EndDate">End Date</label>
+            <input type="date" class="form-control" asp-for="EndDate" required />
+        </div>
+        <div class="form-group mt-4">
+            <button type="submit" class="btn btn-primary mr-2 bg-dark">Next</button>
+            <a href="@Url.Action("Index", "Trips")" class="btn btn-secondary">Cancel</a>
+        </div>
+        <div class="form-group">
+            <label>@ViewBag.Destination</label>
+        </div>
+    </form>
+</div>

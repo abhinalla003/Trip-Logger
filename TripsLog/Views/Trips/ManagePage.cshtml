@@ -1,0 +1,71 @@
+﻿@model TripsLog.Models.ManagePageViewModel
+@{
+    ViewData["Title"] = "Manage Page";
+    Layout = "_Layout";
+}
+<div class="container mt-5">
+    <h1 class="bg-secondary text-white text-center py-3">My Trip Log</h1>
+    <h2 class="my-4">Manage Destinations, Accommodations, and Activities</h2>
+    <h3 class="my-6">Add</h3>
+    <form asp-action="ManagePage" method="post" class="needs-validation" novalidate>
+        <div class="form-group">
+            <label for="Destination">Destination</label>
+            <input type="text" class="form-control" asp-for="Destination.DestinationName" required />
+        </div>
+        <div class="form-group">
+            <label for="AccommodationName">Accommodation Name</label>
+            <input type="text" class="form-control" asp-for="Accommodation.AccommodationName" required />
+        </div>
+        <div class="form-group">
+            <label for="AccommodationPhone">Accommodation Phone</label>
+            <input type="number" maxlength="10" class="form-control" asp-for="Accommodation.AccommodationPhone" required />
+        </div>
+        <div class="form-group">
+            <label for="AccommodationEmail">Accommodation Email</label>
+            <input type="email" class="form-control" asp-for="Accommodation.AccommodationEmail" required />
+        </div>
+        <div class="form-group">
+            <label for="ActivityName">Activity</label>
+            <input type="text" class="form-control" asp-for="Activity.ActivityName" required />
+        </div>
+        <div class="form-group mt-4">
+            <button type="submit" class="btn btn-primary mr-2 bg-dark">Add</button>
+        </div>
+    </form>
+    <h3 class="my-6">Delete</h3>
+    <form asp-action="DeleteItems" method="post" class="needs-validation" novalidate>
+        <div class="form-group">
+            <label for="Destination">Destination</label>
+            <select class="form-control" asp-for="DestinationId" required>
+                <option value="">Select Destination</option>
+                @foreach (var destination in ViewBag.Destinations)
+                {
+                    <option value="@destination.DestinationId">@destination.DestinationName</option>
+                }
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="Accommodation">Accommodations (optional)</label>
+            <select class="form-control" asp-for="AccommodationId">
+                <option value="">Select Accommodation</option>
+                @foreach (var accommodation in ViewBag.Accommodations)
+                {
+                    <option value="@accommodation.AccommodationId">@accommodation.AccommodationName</option>
+                }
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="ActivityName">Activity</label>
+            <select class="form-control" asp-for="ActivityId" required>
+                <option value="">Select Activity</option>
+                @foreach (var activity in ViewBag.Activities)
+                {
+                    <option value="@activity.ActivityId">@activity.ActivityName</option>
+                }
+            </select>
+        </div>
+        <div class="form-group mt-4">
+            <button type="submit" class="btn btn-danger">Delete</button>
+        </div>
+    </form>
+</div>

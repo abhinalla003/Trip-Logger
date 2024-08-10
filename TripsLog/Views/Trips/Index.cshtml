@@ -1,0 +1,46 @@
+﻿@model IEnumerable<TripsLog.Models.Trip>
+@{
+    ViewData["Title"] = "My Trip Log";
+    Layout = "_Layout";
+}
+<div class="container mt-5">
+    <h1 class="bg-secondary text-white text-center py-4">My Trip Log</h1>
+    <a href="@Url.Action("AddTripStep1", "Trips")" class="btn btn-link mb-3">Add Trip</a>
+    <table class="table table-striped table-bordered">
+        <thead class="thead-dark">
+            <tr>
+                <th>Destination</th>
+                <th>Start Date</th>
+                <th>End Date</th>
+                <th>Accommodations</th>
+                <th>Things To Do</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var trip in Model)
+            {
+                <tr>
+                    <td>@(trip.Destination?.DestinationName ?? "-")</td>
+                    <td>@trip.StartDate.ToString("M/d/yyyy")</td>
+                    <td>@trip.EndDate.ToString("M/d/yyyy")</td>
+                    <td>@(trip.Accommodation?.AccommodationName ?? "-")</td>
+                    <td>
+                        <ul>
+                            @foreach (var activity in trip.TripActivities)
+                            {
+                                <li>@(activity.Activity?.ActivityName ?? "-")</li>
+                            }
+                        </ul>
+                    </td>
+                    <td>
+                        <form asp-action="DeleteTrip" method="post" class="needs-validation" novalidate>
+                            <input type="hidden" name="tripId" value="@trip.TripId" />
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

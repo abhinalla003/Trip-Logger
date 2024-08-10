@@ -1,0 +1,152 @@
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\appsettings.Development.json
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\appsettings.json
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\TripsLog.staticwebassets.runtime.json
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\TripsLog.exe
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\TripsLog.deps.json
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\TripsLog.runtimeconfig.json
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\TripsLog.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\TripsLog.pdb
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\Azure.Core.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\Azure.Identity.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\Humanizer.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\System.CodeDom.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\System.Memory.Data.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\obj\Debug\net7.0\TripsLog.csproj.AssemblyReference.cache
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\obj\Debug\net7.0\TripsLog.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\obj\Debug\net7.0\TripsLog.AssemblyInfoInputs.cache
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\obj\Debug\net7.0\TripsLog.AssemblyInfo.cs
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\obj\Debug\net7.0\TripsLog.csproj.CoreCompileInputs.cache
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\obj\Debug\net7.0\TripsLog.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\obj\Debug\net7.0\TripsLog.RazorAssemblyInfo.cache
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\obj\Debug\net7.0\TripsLog.RazorAssemblyInfo.cs
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\obj\Debug\net7.0\staticwebassets\msbuild.TripsLog.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\obj\Debug\net7.0\staticwebassets\msbuild.build.TripsLog.props
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TripsLog.props
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TripsLog.props
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\obj\Debug\net7.0\staticwebassets.pack.json
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\obj\Debug\net7.0\staticwebassets.build.json
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\obj\Debug\net7.0\staticwebassets.development.json
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\obj\Debug\net7.0\scopedcss\bundle\TripsLog.styles.css
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\obj\Debug\net7.0\scopedcss\projectbundle\TripsLog.bundle.scp.css
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\obj\Debug\net7.0\TripsLog.csproj.CopyComplete
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\obj\Debug\net7.0\TripsLog.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\obj\Debug\net7.0\refint\TripsLog.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\obj\Debug\net7.0\TripsLog.pdb
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\obj\Debug\net7.0\TripsLog.genruntimeconfig.cache
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\obj\Debug\net7.0\ref\TripsLog.dll
+E:\ASP.NET Assignments\Disha\Assignment 2\TripsLog\TripsLog\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\appsettings.Development.json
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\appsettings.json
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\TripsLog.staticwebassets.runtime.json
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\TripsLog.exe
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\TripsLog.deps.json
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\TripsLog.runtimeconfig.json
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\TripsLog.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\TripsLog.pdb
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\Azure.Core.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\Azure.Identity.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\Humanizer.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\System.CodeDom.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\obj\Debug\net7.0\TripsLog.csproj.AssemblyReference.cache
+E:\Work\Assignments Solution\TripsLog\TripsLog\obj\Debug\net7.0\TripsLog.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Assignments Solution\TripsLog\TripsLog\obj\Debug\net7.0\TripsLog.AssemblyInfoInputs.cache
+E:\Work\Assignments Solution\TripsLog\TripsLog\obj\Debug\net7.0\TripsLog.AssemblyInfo.cs
+E:\Work\Assignments Solution\TripsLog\TripsLog\obj\Debug\net7.0\TripsLog.csproj.CoreCompileInputs.cache
+E:\Work\Assignments Solution\TripsLog\TripsLog\obj\Debug\net7.0\TripsLog.MvcApplicationPartsAssemblyInfo.cache
+E:\Work\Assignments Solution\TripsLog\TripsLog\obj\Debug\net7.0\TripsLog.RazorAssemblyInfo.cache
+E:\Work\Assignments Solution\TripsLog\TripsLog\obj\Debug\net7.0\TripsLog.RazorAssemblyInfo.cs
+E:\Work\Assignments Solution\TripsLog\TripsLog\obj\Debug\net7.0\staticwebassets.build.json
+E:\Work\Assignments Solution\TripsLog\TripsLog\obj\Debug\net7.0\staticwebassets.development.json
+E:\Work\Assignments Solution\TripsLog\TripsLog\obj\Debug\net7.0\staticwebassets\msbuild.TripsLog.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Work\Assignments Solution\TripsLog\TripsLog\obj\Debug\net7.0\staticwebassets\msbuild.build.TripsLog.props
+E:\Work\Assignments Solution\TripsLog\TripsLog\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TripsLog.props
+E:\Work\Assignments Solution\TripsLog\TripsLog\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TripsLog.props
+E:\Work\Assignments Solution\TripsLog\TripsLog\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Work\Assignments Solution\TripsLog\TripsLog\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Work\Assignments Solution\TripsLog\TripsLog\obj\Debug\net7.0\scopedcss\bundle\TripsLog.styles.css
+E:\Work\Assignments Solution\TripsLog\TripsLog\obj\Debug\net7.0\scopedcss\projectbundle\TripsLog.bundle.scp.css
+E:\Work\Assignments Solution\TripsLog\TripsLog\obj\Debug\net7.0\TripsLog.csproj.Up2Date
+E:\Work\Assignments Solution\TripsLog\TripsLog\obj\Debug\net7.0\TripsLog.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\obj\Debug\net7.0\refint\TripsLog.dll
+E:\Work\Assignments Solution\TripsLog\TripsLog\obj\Debug\net7.0\TripsLog.pdb
+E:\Work\Assignments Solution\TripsLog\TripsLog\obj\Debug\net7.0\TripsLog.genruntimeconfig.cache
+E:\Work\Assignments Solution\TripsLog\TripsLog\obj\Debug\net7.0\ref\TripsLog.dll

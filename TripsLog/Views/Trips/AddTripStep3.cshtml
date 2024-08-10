@@ -1,0 +1,35 @@
+﻿@model TripsLog.Models.AddTripViewModel
+@{
+    ViewData["Title"] = "Add Things to Do - Page 3";
+    Layout = "_Layout"; 
+}
+<div class="container mt-5">
+    <h1 class="bg-secondary text-white text-center py-3">My Trip Log</h1>
+    <h2 class="my-4">Add Things to Do in @ViewBag.DestinationName</h2>
+    <form asp-action="AddTripStep3" method="post" class="needs-validation" novalidate>
+        <div class="form-group">
+            <select class="form-control" asp-for="ActivityIds" multiple>
+                @foreach (var activity in ViewBag.Activities)
+                {
+                    <option value="@activity.ActivityId">@activity.ActivityName</option>
+                }
+            </select>
+        </div>
+        <input type="hidden" value="@ViewBag.DestinationId" asp-for="DestinationId" />
+        <input type="hidden" value="@ViewBag.AccommodationId" asp-for="AccommodationId" />
+        <input type="hidden" value="@ViewBag.StartDate" asp-for="StartDate" />
+        <input type="hidden" value="@ViewBag.EndDate" asp-for="EndDate" />
+        <div class="form-group mt-4">
+            <button type="submit" name="command" value="Save" class="btn btn-primary mr-2">Save</button>
+            <button type="submit" name="command" value="Cancel" class="btn btn-secondary">
+                <a href="@Url.Action("Index", "Trips")" class="btn btn-secondary" style="text-decoration: none;">Cancel</a>
+            </button>
+        </div>
+    </form>
+    @if (ViewBag.Error != null)
+    {
+        <div class="alert alert-danger" role="alert">
+            @ViewBag.Error
+        </div>
+    }
+</div>
